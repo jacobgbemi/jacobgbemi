@@ -1,4 +1,4 @@
-### Hi. I'm Jag (Initials of my name) 👋
+## Hi. I'm Gbemi Jacob Adebayo (aka Jag) 👋
 
 - 🔭 I’m currently working on project data analytics.
 - 🌱 I’m currently learning C, Python, SQL, JavaScript and PowerBI.
