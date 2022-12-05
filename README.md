@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on data analytics and cloud computing.
 
 - 💬 Ask me about project data analytics, project planning & control, cloud computing and software development
-- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gbemi-jacob-adebayo)
+- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gbemi-jacob-adebayo) || [Twitter](https://twitter.com/helpthemgrowup)
 
